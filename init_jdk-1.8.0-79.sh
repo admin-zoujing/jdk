@@ -16,4 +16,3 @@ cd
 source /etc/profile.d/java.sh
 source /etc/profile.d/java.sh
 java -version
-
